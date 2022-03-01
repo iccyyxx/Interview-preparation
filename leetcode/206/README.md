@@ -8,7 +8,7 @@
 
 **示例 1：**
 
-![img](D:\Github\Interview-preparation\leetcode\206\rev1ex1.jpg)
+![img](./rev1ex1.jpg)
 
 ```
 输入：head = [1,2,3,4,5]
@@ -17,7 +17,7 @@
 
 **示例 2：**
 
-![img](D:\Github\Interview-preparation\leetcode\206\rev1ex2.jpg)
+![img](./rev1ex2.jpg)
 
 ```
 输入：head = [1,2]
