@@ -9,4 +9,5 @@
 |[25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)|<a href="./25/">点击此处跳转</a>|困难|链表|
 |[15. 三数之和](https://leetcode-cn.com/problems/3sum/)|<a href="./15/">点击此处跳转</a>|中等|双指针、二分查找|
 |[121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|<a href="./121/">点击此处跳转</a>|简单||
+|[1. 两数之和](https://leetcode-cn.com/problems/two-sum/)|<a href="./1/">点击此处跳转</a>|简单|Map|
 
