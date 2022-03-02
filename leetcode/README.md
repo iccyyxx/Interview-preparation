@@ -10,4 +10,5 @@
 |[15. 三数之和](https://leetcode-cn.com/problems/3sum/)|<a href="./15/">点击此处跳转</a>|中等|双指针、二分查找|
 |[121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|<a href="./121/">点击此处跳转</a>|简单||
 |[1. 两数之和](https://leetcode-cn.com/problems/two-sum/)|<a href="./1/">点击此处跳转</a>|简单|Map|
+|[94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|<a href="./94/">点击此处跳转</a>|中等|递归、迭代|
 
