@@ -17,3 +17,4 @@
 | [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)                    | <a href="./199/">点击此处跳转</a>               | 中等  | 广度优先搜索   |
 | [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)                         | <a href="answer/medium/21.md">点击此处跳转</a>  | 中等  | 迭代       |
 | [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)                                 | <a href="answer/medium/200.md">点击此处跳转</a> | 中等  | 深度优先搜索   |
+| [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)                          | <a href="answer/medium/92.md">点击此处跳转</a>  | 中等  |          |
