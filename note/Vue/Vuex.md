@@ -30,4 +30,19 @@
 
 ## State
 
+### vuex 数据刷新丢失的问题
 
+- 绑定事件监听：在卸载前保存当前数据
+
+```js
+window.addEventListener('beforeunload',()=>{
+    sessionStorage.setItem('CART_LIST_KEY',
+        JSON.stringify(this.$store.state.shopCart.cartlist))
+})
+```
+
+- 在初始化时读取保存数据作为状态的初始值
+
+```js
+cartlist:JSON.parse(sessionStorage.getItem('CART_LIST_KEY')||[])
+```
